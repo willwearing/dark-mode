@@ -13,5 +13,3 @@ export const useDarkMode = () => {
 };
 
 export default useDarkMode;
-
-// "light", "initial"
